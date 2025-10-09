@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/NakamotoGames",
   "VITE_SEO_SITE_NAME": "NAKA DEX | Nakamoto Games - Play and Earn in Web3 Gaming",
   "VITE_SEO_SITE_DESCRIPTION": "Get started in minutes with our free-to-play games. The best collection of play-to-earn crypto games featuring action, arcade, and more. Powered by $NAKA.",
-  "VITE_SEO_SITE_URL": "https://perp.nakamoto.games",
+  "VITE_SEO_SITE_URL": "https://dex.orderly.network/devnakamotogames-1167/",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
